@@ -29,5 +29,5 @@ Through this training, I’m gaining practical exposure in:
 ![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)  
 
 ---
-Thank you for Visiting my Repository
+Thank you for visiting my Repository
 
